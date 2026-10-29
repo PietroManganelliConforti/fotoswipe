@@ -1,0 +1,956 @@
+{
+ "version": 1,
+ "credit": "Photos: Unsplash via picsum.photos (free to use)",
+ "bytes": 15942097,
+ "items": [
+  {
+   "file": "p00.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "80000040a891496d",
+   "source": 610,
+   "bytes": 200731
+  },
+  {
+   "file": "p01.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "2102c1f01d44d909",
+   "source": 240,
+   "bytes": 185981
+  },
+  {
+   "file": "p02.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "0000000a4ed60422",
+   "source": 385,
+   "bytes": 123467
+  },
+  {
+   "file": "p03.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "235e696428393c34",
+   "source": 122,
+   "bytes": 124440
+  },
+  {
+   "file": "p04.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "c456ceb0c1f03026",
+   "source": 783,
+   "bytes": 254328
+  },
+  {
+   "file": "p05.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "8e8e8e0b0b4c8e2f",
+   "source": 88,
+   "bytes": 198939
+  },
+  {
+   "file": "p06.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "0000028ae0113030",
+   "source": 588,
+   "bytes": 133031
+  },
+  {
+   "file": "p07.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "3532b1b038132021",
+   "source": 174,
+   "bytes": 191616
+  },
+  {
+   "file": "p08.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "011008110368fe3e",
+   "source": 886,
+   "bytes": 78878
+  },
+  {
+   "file": "p09.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "07e7ee2f36f1f886",
+   "source": 54,
+   "bytes": 171990
+  },
+  {
+   "file": "p10.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "8b0f0f0f1f1f1f07",
+   "source": 537,
+   "bytes": 331056
+  },
+  {
+   "file": "p11.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "daf9f5e75134b6db",
+   "source": 617,
+   "bytes": 138312
+  },
+  {
+   "file": "p12.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "c00900050303cfe9",
+   "source": 374,
+   "bytes": 126337
+  },
+  {
+   "file": "p13.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "8098ac90c1048080",
+   "source": 312,
+   "bytes": 208843
+  },
+  {
+   "file": "p14.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "99d0c33333b2322e",
+   "source": 768,
+   "bytes": 221228
+  },
+  {
+   "file": "p15.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "188860ebce476387",
+   "source": 1039,
+   "bytes": 325629
+  },
+  {
+   "file": "p16.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "4ecacec2de8e9a96",
+   "source": 629,
+   "bytes": 262353
+  },
+  {
+   "file": "p17.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "1f83c03f1f050f87",
+   "source": 651,
+   "bytes": 295185
+  },
+  {
+   "file": "p18.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "0d5c0db9785a6e2e",
+   "source": 108,
+   "bytes": 111442
+  },
+  {
+   "file": "p19.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "0fe7580e3d1e0e40",
+   "source": 349,
+   "bytes": 55507
+  },
+  {
+   "file": "p20.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "41c4df3cd8c9f1c9",
+   "source": 837,
+   "bytes": 231487
+  },
+  {
+   "file": "p21.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "0e040e06aeae0e4e",
+   "source": 630,
+   "bytes": 140568
+  },
+  {
+   "file": "p22.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "0c2d2c2c8c0f1f07",
+   "source": 322,
+   "bytes": 303492
+  },
+  {
+   "file": "p23.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "929003162468ca8a",
+   "source": 352,
+   "bytes": 157511
+  },
+  {
+   "file": "p24.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "3e6f4f4b5a4f3b13",
+   "source": 1027,
+   "bytes": 104906
+  },
+  {
+   "file": "p25.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "41e1e4b0f1f2b0f1",
+   "source": 642,
+   "bytes": 129128
+  },
+  {
+   "file": "p26.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "3b4f063cef9faf37",
+   "source": 1069,
+   "bytes": 103782
+  },
+  {
+   "file": "p27.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "00018387050c0b25",
+   "source": 1071,
+   "bytes": 124843
+  },
+  {
+   "file": "p28.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "777f2f6f93972d40",
+   "source": 452,
+   "bytes": 67702
+  },
+  {
+   "file": "p29.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "0ba1980c66b3a565",
+   "source": 397,
+   "bytes": 194927
+  },
+  {
+   "file": "p30.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "4f56c993316d3652",
+   "source": 969,
+   "bytes": 166916
+  },
+  {
+   "file": "p31.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "0f0fcfcd93b3914f",
+   "source": 827,
+   "bytes": 160539
+  },
+  {
+   "file": "p32.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "0060ef13110c0302",
+   "source": 196,
+   "bytes": 99596
+  },
+  {
+   "file": "p33.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "462938083ad83000",
+   "source": 469,
+   "bytes": 103194
+  },
+  {
+   "file": "p34.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "01002000008c6c4b",
+   "source": 14,
+   "bytes": 255735
+  },
+  {
+   "file": "p35.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "00010010301030b4",
+   "source": 925,
+   "bytes": 125777
+  },
+  {
+   "file": "p36.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "3f93f1d9ef7c8393",
+   "source": 918,
+   "bytes": 112026
+  },
+  {
+   "file": "p37.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "d3c9cf7777fcf0db",
+   "source": 528,
+   "bytes": 147530
+  },
+  {
+   "file": "p38.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "c134303351b350cb",
+   "source": 181,
+   "bytes": 68554
+  },
+  {
+   "file": "p39.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "1f3f1f3f1ef83883",
+   "source": 914,
+   "bytes": 71950
+  },
+  {
+   "file": "p40.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "02073c033ff9c992",
+   "source": 556,
+   "bytes": 149808
+  },
+  {
+   "file": "p41.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "fafbedf3fb7b191f",
+   "source": 798,
+   "bytes": 65850
+  },
+  {
+   "file": "p42.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "734b4969332d5b8e",
+   "source": 662,
+   "bytes": 62128
+  },
+  {
+   "file": "p43.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "a55a7d8c8f3838c8",
+   "source": 152,
+   "bytes": 107086
+  },
+  {
+   "file": "p44.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "2804924353d36353",
+   "source": 43,
+   "bytes": 146581
+  },
+  {
+   "file": "p45.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "3796cbe9a96c714a",
+   "source": 803,
+   "bytes": 215597
+  },
+  {
+   "file": "p46.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "fcfcf03f0d4f9331",
+   "source": 379,
+   "bytes": 210704
+  },
+  {
+   "file": "p47.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "c2838181c7494c31",
+   "source": 996,
+   "bytes": 81904
+  },
+  {
+   "file": "p48.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "3ab6a62c2524642c",
+   "source": 284,
+   "bytes": 203553
+  },
+  {
+   "file": "p49.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "9978ec5d1d4f2771",
+   "source": 72,
+   "bytes": 195460
+  },
+  {
+   "file": "p50.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "66fe68c9ece8b435",
+   "source": 343,
+   "bytes": 451637
+  },
+  {
+   "file": "p51.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "67b52b78da96254c",
+   "source": 915,
+   "bytes": 382224
+  },
+  {
+   "file": "p52.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "1f7f3331591d151b",
+   "source": 378,
+   "bytes": 202741
+  },
+  {
+   "file": "p53.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "1ce33c1ff83696e8",
+   "source": 418,
+   "bytes": 175466
+  },
+  {
+   "file": "p54.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "2d8999392870331f",
+   "source": 670,
+   "bytes": 242561
+  },
+  {
+   "file": "p55.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "0000000000dbdb00",
+   "source": 769,
+   "bytes": 28735
+  },
+  {
+   "file": "p56.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "6faf3f01003e2fc5",
+   "source": 11,
+   "bytes": 155636
+  },
+  {
+   "file": "p57.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "a000012312720b8b",
+   "source": 330,
+   "bytes": 106588
+  },
+  {
+   "file": "p58.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "b6b4aad4adfbe9c9",
+   "source": 158,
+   "bytes": 121069
+  },
+  {
+   "file": "p59.jpg",
+   "cat": "photo",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "07130f0b07341d0b",
+   "source": 67,
+   "bytes": 277423
+  },
+  {
+   "file": "b0a.jpg",
+   "cat": "burst",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "30f0c020a0a02020",
+   "group": "b0",
+   "shot": 0,
+   "source": 261,
+   "bytes": 183240
+  },
+  {
+   "file": "b0b.jpg",
+   "cat": "burst",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "30f0c060e020a0a4",
+   "group": "b0",
+   "shot": 1,
+   "source": 261,
+   "bytes": 191198
+  },
+  {
+   "file": "b0c.jpg",
+   "cat": "burst",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "70e08060a02424a4",
+   "group": "b0",
+   "shot": 2,
+   "source": 261,
+   "bytes": 199471
+  },
+  {
+   "file": "b1a.jpg",
+   "cat": "burst",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "8307070fcf100800",
+   "group": "b1",
+   "shot": 0,
+   "source": 186,
+   "bytes": 130665
+  },
+  {
+   "file": "b1b.jpg",
+   "cat": "burst",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "83070f8fcf100000",
+   "group": "b1",
+   "shot": 1,
+   "source": 186,
+   "bytes": 133203
+  },
+  {
+   "file": "b1c.jpg",
+   "cat": "burst",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "87070f0fcf100800",
+   "group": "b1",
+   "shot": 2,
+   "source": 186,
+   "bytes": 135516
+  },
+  {
+   "file": "b2a.jpg",
+   "cat": "burst",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "091e26271f1d1e0f",
+   "group": "b2",
+   "shot": 0,
+   "source": 1026,
+   "bytes": 149704
+  },
+  {
+   "file": "b2b.jpg",
+   "cat": "burst",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "0b16262f1f1d1e0f",
+   "group": "b2",
+   "shot": 1,
+   "source": 1026,
+   "bytes": 155698
+  },
+  {
+   "file": "b2c.jpg",
+   "cat": "burst",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "0b1e26231f1d1c0f",
+   "group": "b2",
+   "shot": 2,
+   "source": 1026,
+   "bytes": 160025
+  },
+  {
+   "file": "b3a.jpg",
+   "cat": "burst",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "3f1f3f73a7876f0f",
+   "group": "b3",
+   "shot": 0,
+   "source": 874,
+   "bytes": 105196
+  },
+  {
+   "file": "b3b.jpg",
+   "cat": "burst",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "3f1f3773af874f0f",
+   "group": "b3",
+   "shot": 1,
+   "source": 874,
+   "bytes": 108068
+  },
+  {
+   "file": "b3c.jpg",
+   "cat": "burst",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "3f1f3763af874f0f",
+   "group": "b3",
+   "shot": 2,
+   "source": 874,
+   "bytes": 110866
+  },
+  {
+   "file": "b4a.jpg",
+   "cat": "burst",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "84a1f8dfed88182d",
+   "group": "b4",
+   "shot": 0,
+   "source": 247,
+   "bytes": 272569
+  },
+  {
+   "file": "b4b.jpg",
+   "cat": "burst",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "04a1f8dfed08106d",
+   "group": "b4",
+   "shot": 1,
+   "source": 247,
+   "bytes": 281391
+  },
+  {
+   "file": "b4c.jpg",
+   "cat": "burst",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "04a1f89fed081149",
+   "group": "b4",
+   "shot": 2,
+   "source": 247,
+   "bytes": 290982
+  },
+  {
+   "file": "b5a.jpg",
+   "cat": "burst",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "8ccc22bb2d562925",
+   "group": "b5",
+   "shot": 0,
+   "source": 18,
+   "bytes": 212130
+  },
+  {
+   "file": "b5b.jpg",
+   "cat": "burst",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "8ccc20ab2d546b25",
+   "group": "b5",
+   "shot": 1,
+   "source": 18,
+   "bytes": 218598
+  },
+  {
+   "file": "b5c.jpg",
+   "cat": "burst",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "8ccc202b2dd46b21",
+   "group": "b5",
+   "shot": 2,
+   "source": 18,
+   "bytes": 225099
+  },
+  {
+   "file": "blur0.jpg",
+   "cat": "blurry",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "c0220370071ffa7b",
+   "source": 458,
+   "bytes": 35680
+  },
+  {
+   "file": "blur1.jpg",
+   "cat": "blurry",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "048e66170f073636",
+   "source": 778,
+   "bytes": 41030
+  },
+  {
+   "file": "blur2.jpg",
+   "cat": "blurry",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "0002016503931713",
+   "source": 687,
+   "bytes": 30606
+  },
+  {
+   "file": "meme0.jpg",
+   "cat": "meme",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "174d6a3490012605",
+   "text": "Quando apri la galleria e hai 40.000 foto",
+   "source": 548,
+   "bytes": 144210
+  },
+  {
+   "file": "meme1.jpg",
+   "cat": "meme",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "4f33352d2d3f777f",
+   "text": "Io che cancello 3 screenshot e mi sento ordinato",
+   "source": 290,
+   "bytes": 141453
+  },
+  {
+   "file": "meme2.jpg",
+   "cat": "meme",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "35118e1333cc1004",
+   "text": "Luned\u00ec mattina, ma il telefono \u00e8 gi\u00e0 pieno",
+   "source": 992,
+   "bytes": 53906
+  },
+  {
+   "file": "meme3.jpg",
+   "cat": "meme",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "f07565056474770c",
+   "text": "Memoria piena. Di nuovo.",
+   "source": 252,
+   "bytes": 162721
+  },
+  {
+   "file": "dark0.jpg",
+   "cat": "pocket",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "0000000000000000",
+   "bytes": 9705
+  },
+  {
+   "file": "dark1.jpg",
+   "cat": "pocket",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "0000000000000000",
+   "bytes": 9705
+  },
+  {
+   "file": "dark2.jpg",
+   "cat": "pocket",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "0000000000000000",
+   "bytes": 9705
+  },
+  {
+   "file": "receipt0.jpg",
+   "cat": "receipt",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "23232323232b0b3f",
+   "bytes": 45680
+  },
+  {
+   "file": "receipt1.jpg",
+   "cat": "receipt",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "07272323232b031f",
+   "bytes": 46478
+  },
+  {
+   "file": "receipt2.jpg",
+   "cat": "receipt",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "07272323233b031f",
+   "bytes": 47747
+  },
+  {
+   "file": "shot0.jpg",
+   "cat": "screenshot",
+   "w": 1080,
+   "h": 2340,
+   "dhash": "4881838181818181",
+   "bytes": 104028
+  },
+  {
+   "file": "shot1.jpg",
+   "cat": "screenshot",
+   "w": 1080,
+   "h": 2340,
+   "dhash": "3081818181818181",
+   "bytes": 100466
+  },
+  {
+   "file": "shot2.jpg",
+   "cat": "screenshot",
+   "w": 1080,
+   "h": 2340,
+   "dhash": "5881818181818181",
+   "bytes": 103054
+  },
+  {
+   "file": "shot3.jpg",
+   "cat": "screenshot",
+   "w": 1080,
+   "h": 2340,
+   "dhash": "1881818181818181",
+   "bytes": 102460
+  },
+  {
+   "file": "shot4.jpg",
+   "cat": "screenshot",
+   "w": 1080,
+   "h": 2340,
+   "dhash": "6081818181818181",
+   "bytes": 99715
+  },
+  {
+   "file": "shot5.jpg",
+   "cat": "screenshot",
+   "w": 1080,
+   "h": 2340,
+   "dhash": "34a1818181818181",
+   "bytes": 100732
+  },
+  {
+   "file": "screen0.jpg",
+   "cat": "screen",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "262607070303839b",
+   "bytes": 73648
+  },
+  {
+   "file": "screen1.jpg",
+   "cat": "screen",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "1707070707070313",
+   "bytes": 71101
+  },
+  {
+   "file": "screen2.jpg",
+   "cat": "screen",
+   "w": 1080,
+   "h": 1440,
+   "dhash": "1b03030707070707",
+   "bytes": 72689
+  },
+  {
+   "file": "v0.mp4",
+   "cat": "video",
+   "w": 720,
+   "h": 1280,
+   "duration": 5,
+   "bytes": 287668
+  },
+  {
+   "file": "v1.mp4",
+   "cat": "video",
+   "w": 720,
+   "h": 1280,
+   "duration": 5,
+   "bytes": 238402
+  },
+  {
+   "file": "v2.mp4",
+   "cat": "video",
+   "w": 720,
+   "h": 1280,
+   "duration": 5,
+   "bytes": 353682
+  }
+ ]
+}
